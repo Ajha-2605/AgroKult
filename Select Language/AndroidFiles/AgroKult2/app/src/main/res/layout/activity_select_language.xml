@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp" >
+
+
+<Spinner
+    android:id="@+id/spinner"
+    android:entries="@array/Languages"
+    android:layout_width="368dp"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="130dp"
+    android:layout_alignParentTop="true"
+    android:layout_alignParentLeft="true"
+    android:layout_alignParentStart="true" />
+
+<TextView
+android:id="@+id/tvContanctus"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Contact Us"
+    android:layout_marginBottom="33dp"
+    android:layout_above="@+id/tvSupport"
+    android:layout_centerHorizontal="true" />
+
+<TextView
+android:id="@+id/tvSupport"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="Support"
+    android:layout_marginBottom="26dp"
+    android:layout_above="@+id/tvText"
+    android:layout_alignRight="@+id/tvContanctus"
+    android:layout_alignEnd="@+id/tvContanctus" />
+
+<TextView
+android:id="@+id/tvText"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:text="AgroKult Organising the UnOrganised"
+    android:layout_marginBottom="22dp"
+    android:layout_alignParentBottom="true"
+    android:layout_alignParentRight="true"
+    android:layout_alignParentEnd="true"
+    android:layout_marginRight="55dp"
+    android:layout_marginEnd="55dp" />
+</RelativeLayout>

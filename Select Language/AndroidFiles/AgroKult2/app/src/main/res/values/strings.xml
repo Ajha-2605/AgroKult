@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">AgroKult</string>
+    <string-array name="Languages">
+        <item> Arabic, Egypt (ar_EG) </item>
+<item>Arabic, Israel (ar_IL)</item>
+    <item>Bulgarian, Bulgaria (bg_BG)</item>
+<item>Catalan, Spain (ca_ES)</item>
+<item>Chinese, PRC (zh_CN)</item>
+<item>Chinese, Taiwan (zh_TW)</item>
+<item>Croatian, Croatia (hr_HR)</item>
+<item>Czech, Czech Republic (cs_CZ)</item>
+<item>Danish, Denmark(da_DK)</item>
+<item>Dutch, Belgium (nl_BE)</item>
+<item>Dutch, Netherlands (nl_NL)</item>
+<item>English, Australia (en_AU)</item>
+<item>English, Britain (en_GB)</item>
+<item>English, Canada (en_CA)</item>
+<item>English, India (en_IN)</item>
+<item>English, Ireland (en_IE)</item>
+<item>English, New Zealand (en_NZ)</item>
+<item>English, Singapore(en_SG)</item>
+<item>English, South Africa (en_ZA)</item>
+<item>English, US (en_US)</item>
+<item>Finnish, Finland (fi_FI)</item>
+<item>French, Belgium (fr_BE)</item>
+<item>French, Canada (fr_CA)</item>
+<item>French, France (fr_FR)</item>
+<item>French, Switzerland (fr_CH)</item>
+<item>German, Austria (de_AT)</item>
+<item>German, Germany (de_DE)</item>
+<item>German, Liechtenstein (de_LI)</item>
+<item>German, Switzerland (de_CH)</item>
+<item>Greek, Greece (el_GR)</item>
+<item>Hebrew, Israel (he_IL)</item>
+<item>Hindi, India (hi_IN)</item>
+<item>Hungarian, Hungary (hu_HU)</item>
+<item>Indonesian, Indonesia (id_ID)</item>
+<item>Italian, Italy (it_IT)</item>
+<item>Italian, Switzerland (it_CH)</item>
+<item>Japanese (ja_JP)</item>
+<item>Korean (ko_KR)</item>
+<item>Latvian, Latvia (lv_LV)</item>
+<item>Lithuanian, Lithuania (lt_LT)</item>
+<item>Norwegian bokmÃ¥l, Norway (nb_NO)</item>
+<item>Polish (pl_PL)</item>
+<item>Portuguese, Brazil (pt_BR)</item>
+<item>Portuguese, Portugal (pt_PT)</item>
+<item>Romanian, Romania (ro_RO)</item>
+<item>Russian (ru_RU)</item>
+<item>Serbian (sr_RS)</item>
+<item>Slovak, Slovakia (sk_SK)</item>
+<item>Slovenian, Slovenia (sl_SI)</item>
+<item>Spanish (es_ES)</item>
+<item>Spanish, US (es_US)</item>
+<item>Swedish, Sweden (sv_SE)</item>
+<item>Tagalog, Philippines (tl_PH)</item>
+<item>Thai, Thailand (th_TH)</item>
+<item>Turkish, Turkey (tr_TR)</item>
+<item>Ukrainian, Ukraine (uk_UA)</item>
+<item>Vietnamese, Vietnam (vi_VN)</item>
+
+        </string-array>
+</resources>

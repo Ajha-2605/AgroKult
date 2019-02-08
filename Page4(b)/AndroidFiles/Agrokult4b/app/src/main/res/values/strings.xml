@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Agrokult4b</string>
+    <string-array name="InterstedIn">
+        <item>Farming</item>
+        <item>Crops</item>
+    </string-array>
+    <string-array name="Region">
+        <item>India</item>
+        <item>Brazil</item>
+    </string-array>
+    <string-array name="ServicesRequired">
+        <item>Help</item>
+        <item>Product Information</item>
+    </string-array>
+</resources>
